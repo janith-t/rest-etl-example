@@ -55,7 +55,7 @@ Before running the project, make sure you have:
    git checkout dev
 
 ### Access the API endpoint
-**localhost:8001/api/users/extract**
+**localhost:8001/api/person/extract**
 
 This will extract data from the configured external source, save it into the database, and return a message like:
 
