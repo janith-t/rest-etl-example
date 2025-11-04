@@ -9,5 +9,4 @@ public class RestEtlExampleApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RestEtlExampleApplication.class, args);
 	}
-
 }
