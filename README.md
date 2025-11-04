@@ -54,7 +54,13 @@ Before running the project, make sure you have:
    cd rest-etl-example
    git checkout dev
 
-## © Copyright
+### Access the API endpoint
+**localhost:8001/api/users/extract**
+
+This will extract data from the configured external source, save it into the database, and return a message like:
+
+
+### © Copyright
 
 © 2025 **Janith Thiwanka Payagala**  
 All rights reserved.
